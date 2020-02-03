@@ -1,0 +1,8 @@
+
+usage: sbot generate name botname
+
+Generates a simple bot that responds to '/hello'
+
+arguments:
+      name       - name of your bot, e.g. awesome
+      botname    - the username of the bot

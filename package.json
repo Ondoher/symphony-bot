@@ -1,0 +1,26 @@
+{
+  "name": "symphony-bot-gen",
+  "version": "0.1.8",
+  "description": "Command line utility to create symphony bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "bin": {
+    "sbot": "bin/sbot.js"
+  },
+  "keywords": [
+    "symphony",
+    "bot"
+  ],
+  "author": "Glenn Anderson",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "mootools": "^1.5.2",
+    "node-forge": "^0.7.5",
+    "ncp": "^2.0.0",
+    "q": "^1.4.1"
+  }
+}
